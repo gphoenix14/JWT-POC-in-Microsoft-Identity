@@ -1,0 +1,6 @@
+@JWT_PoC_HostAddress = http://localhost:5087
+
+GET {{JWT_PoC_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
