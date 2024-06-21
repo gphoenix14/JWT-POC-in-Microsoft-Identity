@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JWT PoC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31735426d726c271f7b0aaf164cccbafd113a593")]
 [assembly: System.Reflection.AssemblyProductAttribute("JWT PoC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JWT PoC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
